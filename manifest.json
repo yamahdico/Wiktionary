@@ -1,0 +1,17 @@
+ 	{
+		"manifest_version": 2,
+		"name": " Wiktionary",
+		"version": "1.0.1",
+	 
+		"description": "Select word, right click: look up definition/translate on Wiktionary Dictionary. A simple WebExtension that provides a context menu entry to look up selected word on the Russian Wiktionary. Opens results in a new tab next to the current one.",
+		"icons": {
+			"48": "icons/icon.svg"
+		},
+	 
+		"permissions": ["contextMenus"],
+	 
+		"background": {
+			"scripts": ["background.js"]
+		}
+	 
+	}

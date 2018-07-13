@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2996"
+   height="130.03391"
+   width="130.03391"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon2.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="1137"
+     id="namedview21"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="7.375"
+     inkscape:cx="70.101689"
+     inkscape:cy="63.999929"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <title
+     id="title3072">en.wiktionary favicon</title>
+  <defs
+     id="defs2998">
+    <linearGradient
+       id="linearGradient3074">
+      <stop
+         id="stop3076"
+         stop-color="#000000"
+         offset="0" />
+      <stop
+         id="stop3078"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3074"
+       id="linearGradient4245"
+       gradientUnits="userSpaceOnUse"
+       x1="829.06"
+       y1="659.90997"
+       x2="833.88"
+       y2="659.90997" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3074"
+       id="linearGradient4247"
+       gradientUnits="userSpaceOnUse"
+       x1="828.97998"
+       y1="659.90997"
+       x2="844.82001"
+       y2="659.90997" />
+  </defs>
+  <metadata
+     id="metadata3001">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>en.wiktionary favicon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-764.18401,-603.4711)">
+    <g
+       id="g4606"
+       transform="matrix(4.0635593,0,0,4.0635593,-2560.9685,-2052.0855)">
+      <path
+         id="rect4168"
+         transform="translate(818.28571,653.50507)"
+         d="m 5,0 22,0 c 2.77,0 5,2.23 5,5 l 0,22 c 0,2.77 -2.23,5 -5,5 L 5,32 C 2.23,32 0,29.77 0,27 L 0,5 C 0,2.23 2.23,0 5,0 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <g
+         id="text3029"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.39767456px;line-height:125%;font-family:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000"
+         font-weight="normal"
+         transform="scale(1.0432075,0.95858208)"
+         font-size="24.39767456px"
+         font-stretch="normal"
+         line-height="125%"
+         font-variant="normal"
+         font-style="normal">
+        <path
+           id="path4601"
+           d="m 792.24,693.37 2.192,0 2.74,10.412 2.7281,-10.412 2.5851,0 2.74,10.412 2.7281,-10.412 2.192,0 -3.4905,13.342 -2.5851,0 -2.871,-10.936 -2.8829,10.936 -2.5851,0 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="text3033"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.41141701px;line-height:125%;font-family:'MineCrafter 3';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4247)"
+         font-weight="normal"
+         transform="scale(0.98932985,1.0107852)"
+         font-size="24.41141701px"
+         font-stretch="normal"
+         line-height="125%"
+         font-variant="normal"
+         font-style="normal">
+        <path
+           id="path3038"
+           d="m 828.12,651.48 5.0539,0 0,1.9695 -3.0412,0 0,17.826 3.0412,0 0,1.9695 -5.0539,0 z"
+           style="fill:url(#linearGradient4245)"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="text3044"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.3637352px;line-height:125%;font-family:'Linux Biolinum G';letter-spacing:0px;word-spacing:0px;fill:#000000"
+         font-weight="normal"
+         font-size="24.3637352px"
+         font-style="normal"
+         font-stretch="normal"
+         line-height="125%"
+         font-variant="normal">
+        <path
+           id="path4604"
+           d="m 823.93,667.73 -0.36878,-0.0952 c -0.52345,-2.6013 -0.78516,-3.9496 -0.78516,-4.0448 0,-0.31722 0.14473,-0.61661 0.43421,-0.89818 0.28948,-0.28153 0.67611,-0.4223 1.1599,-0.42232 0.24585,2e-5 0.44611,0.0238 0.60076,0.0714 0.15465,0.0476 0.26569,0.12096 0.3331,0.22008 0.0674,0.0992 0.11103,0.19234 0.13086,0.27957 0.0198,0.0873 0.0297,0.19828 0.0297,0.3331 0,0.11104 -0.0753,0.53535 -0.22603,1.2729 l -0.45206,2.1176 -0.22603,1.0231 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <use
+         id="use3082"
+         xlink:href="#text3033"
+         transform="matrix(-1,0,0,1,1668.5714,0)"
+         height="32"
+         width="32"
+         y="0"
+         x="0" />
+    </g>
+  </g>
+</svg>
